@@ -1,0 +1,18 @@
+[[package]]
+name = "gprof2dot"
+version = "2022.7.29"
+description = "Generate a dot graph from the output of several profilers."
+category = "main"
+optional = false
+python-versions = ">=2.7"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.11"
+content-hash = "e27dcdf9ff075f8509b833af0ba1622a3990bc521794964b18ce629148942737"
+
+[metadata.files]
+gprof2dot = [
+    {file = "gprof2dot-2022.7.29-py2.py3-none-any.whl", hash = "sha256:f165b3851d3c52ee4915eb1bd6cca571e5759823c2cd0f71a79bda93c2dc85d6"},
+    {file = "gprof2dot-2022.7.29.tar.gz", hash = "sha256:45b4d298bd36608fccf9511c3fd88a773f7a1abc04d6cd39445b11ba43133ec5"},
+]
